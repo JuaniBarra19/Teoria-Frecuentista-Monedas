@@ -4,4 +4,5 @@ En este proyecto se realiza  una secuencia de experimentos, cada experimento con
 En el primer grafico se puede ver que la relacion entre la "teoria" en rojo, y la "simulacion" en azul es muy despareja, ya que en este solo se simularon 20 experimentos.  En el 
 segundo grafico se puede ver que la relacion aumento pero sigue siendo dispareja, esto se debe al aumento de 20 experimentos a 200. 
 Por ultimo, en el ultimo grafico se puede ver que la relacion es muy alta casi identica, ya que se realizaron 20.000 experimentos. Con esto se puede comprar la teoria frecuentista 
-en un caso binomial usando monedas.
+en un caso binomial usando monedas. 
+https://colab.research.google.com/drive/1zuJbthgkH97el2-1zn4n3L3nTQjvvqQZ?authuser=4
